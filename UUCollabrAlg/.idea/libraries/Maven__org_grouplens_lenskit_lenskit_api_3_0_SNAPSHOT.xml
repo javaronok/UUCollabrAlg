@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.grouplens.lenskit:lenskit-api:3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grouplens/lenskit/lenskit-api/3.0-SNAPSHOT/lenskit-api-3.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grouplens/lenskit/lenskit-api/3.0-SNAPSHOT/lenskit-api-3.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grouplens/lenskit/lenskit-api/3.0-SNAPSHOT/lenskit-api-3.0-SNAPSHOT-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../collabr/lenskit/lenskit-api/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
